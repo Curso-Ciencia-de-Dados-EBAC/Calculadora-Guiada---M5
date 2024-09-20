@@ -51,7 +51,7 @@ Bem-vindo ao repositório da **Calculadora Guiada**! Este é um programa de linh
 
 ## Licença
 
-Este projeto está licenciado sob a MIT License. Veja o arquivo [`LICENSE`](LICENCE) para mais detalhes.
+Este projeto está licenciado sob a MIT License. Veja o arquivo [`LICENSE`](LICENSE) para mais detalhes.
 
 ---
 
