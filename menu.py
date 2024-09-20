@@ -42,6 +42,6 @@ def menu(options: list):
     with keyboard.Listener(on_press=callback, suppress=True) as listener:
         listener.join() 
 
-    if kill: exit()
     cursor.show()
+    if kill: exit()
     return options[i]
