@@ -49,6 +49,36 @@ Bem-vindo ao repositório da **Calculadora Guiada**! Este é um programa de linh
 
 3. O resultado será exibido na tela como uma expressão matemática.
 
+## Exemplo de uso
+
+```bash
+Calculadora Guiada
+
+Use as setas para navegar pelo menu.
+Aperte ENTER para selecionar.
+Aperte ESC para encerrar o programa.
+Utilize . (ponto) como separador decimal para números reais.
+
+Escolha o modo de operação:
+Inteiro
+> Real
+
+Modo escolhido: Real
+
+Escolha a operação: 
+Adição
+Subtração
+> Multiplicação
+Divisão
+
+Operação escolhida: Multiplicação
+
+Insira o primeiro valor: 12.24
+Insira o segundo valor: 3.14
+
+12.24 x 3.14 = 38.433600000000006
+```
+
 ## Licença
 
 Este projeto está licenciado sob a MIT License. Veja o arquivo `LICENSE` para mais detalhes.
